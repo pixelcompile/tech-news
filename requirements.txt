@@ -1,4 +1,4 @@
-FastAPI
+fastapi[standard]
 langchain-openai
 langchain-google-genai
 langchain-community
